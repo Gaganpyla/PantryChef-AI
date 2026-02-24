@@ -1,1 +1,1 @@
-# PantryChef-AI
+# PantryChef
